@@ -1,4 +1,4 @@
-# Signalling and reciprocity on the evolution of cooperation
+# Signalling, reciprocity, and the evolution of cooperation
 
 Code used to implement the model, analyse the results and create the plots included in the article "Signalling boosts the evolution of cooperation in repeated group
 interactions" (under review)
